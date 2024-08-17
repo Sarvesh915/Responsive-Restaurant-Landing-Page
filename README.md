@@ -21,7 +21,7 @@ This GitHub repository hosts the source code for a visually appealing and respon
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/sarveshsce/Responsive-Restaurant-Landing-PAGE.git
+   git clone https://github.com/Sarvesh915/Responsive-Restaurant-Landing-Page.git
    ```
 
 2. Open the `index.html` file in your preferred web browser to view the landing page.
